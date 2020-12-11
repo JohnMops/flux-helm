@@ -47,7 +47,7 @@ tolerations: []
 
 affinity: {}
 
-replicas: 2
+replicas: 4
 
 extraContainers: []
 
